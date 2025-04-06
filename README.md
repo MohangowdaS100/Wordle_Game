@@ -62,9 +62,7 @@ This means:
 
 1. **Open the terminal**  
    Navigate to the folder containing the files
-2. **Compile the code using gcc**
-   gcc Wordle_Final.c -o wordle
-3. **Run the program**
-   On Linux/macOS: ./wordle
-   On Windows: wordle.exe
+2. **Compile the code using gcc** --  gcc Wordle_Final.c -o wordle
+3. **Run the program** -- On Linux/macOS: ./wordle, On Windows: wordle.exe
+   
 
