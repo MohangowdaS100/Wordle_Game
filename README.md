@@ -60,14 +60,12 @@ This means:
 
 ## 🛠️ Steps to Compile and Run
 
-1. **Open the terminal**  
-   Navigate to the folder containing the files
+1. **Open the terminal**  -- Navigate to the folder containing the files
    
-3. **Compile the code using gcc** 
-   gcc Wordle_Final.c -o wordle
+3. **Compile the code using gcc**  -- gcc Wordle_Final.c -o wordle
    
-5. **Run the program**
-   On Linux/macOS: ./wordle
-   On Windows: wordle.exe
+5. **Run the program**  -- On Linux/macOS: ./wordle,     On Windows: wordle.exe
+  
+   
    
 
